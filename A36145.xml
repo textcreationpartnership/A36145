@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dispute betwixt two clergie-men upon the roade in which is discovered how unhumanly the one set upon the other in his journey, and at last rejected his company, refusing to dispute with him / published bya friend of the respondents.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36145</idno>
+            <idno type="STC">Wing D1679</idno>
+            <idno type="STC">ESTC R32789</idno>
+            <idno type="EEBO-CITATION">12754937</idno>
+            <idno type="OCLC">ocm 12754937</idno>
+            <idno type="VID">93395</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93395)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1033:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dispute betwixt two clergie-men upon the roade in which is discovered how unhumanly the one set upon the other in his journey, and at last rejected his company, refusing to dispute with him / published bya friend of the respondents.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.H.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Appointment, call, and election.</term>
+               <term>Clergy --  England --  17th century.</term>
+               <term>Presbyterianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93395:1" rendition="simple:additions"/>
+            <p>A DISPVTE BETWIXT Two Clergie-Men upon the Roade.</p>
+            <p>In which is diſcovered how unhumanly the one ſet upon the other in his Journey, and at laſt Rejected his company, re<g ref="char:EOLhyphen"/>fuſing to diſpute with him.</p>
+            <p>Publiſhed by a friend of the Reſpondents.</p>
+            <q>
+               <p>Try the Spirits whether they be of God,</p>
+               <bibl>1 John 4.1.</bibl>
+            </q>
+            <p>Printed for <hi>A. H.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:93395:2"/>
+            <pb facs="tcp:93395:2"/>
+            <head>A Diſpute betweene two Clergie-Men.</head>
+            <p>
+               <hi>Queſtion.</hi>
+            </p>
+            <p>
+               <hi>VVEll met Countryman, whither are you travelling I pray you?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Towards <hi>I.</hi> in <hi>H.</hi> Sir.</p>
+            <p>Q. <hi>Have you beene at</hi> London <hi>Sir?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes.</p>
+            <p>Q. <hi>By your habit you ſhould be a Minister?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I am an unworthy Miniſter of Gods word at <hi>S.</hi> in <hi>E.</hi>
+            </p>
+            <p>Q. <hi>I ſhall be glad of your company, I pray what Colledge were you of, for I ſuppoſe you have beene either a</hi> Cambridge <hi>or an</hi> Oxford <hi>Scholar?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Sir, I have not beene a Graduate.</p>
+            <p>Q. <hi>Then I feare the ſtrange fire of prepoſterous zeale cauſes you as it doth many more in theſe times to run before you be ſent: What doe you thinke it's lawfull for one who hath not beene a Graduate to enter into the Miniſtry?</hi> Spondeo te nunquam ſtudioſo Scholaſtico damnum illaturum niſi eum libris privaveris?</p>
+            <p>
+               <hi>A.</hi> Sir, I am at the preſent ſomewhat unfit for diſpu<g ref="char:EOLhyphen"/>tation, yet if you can convince me by cleare teſtimony out of Gods word, that he that hath not been a graduate may not be a Miniſter of Gods word in caſe of neceſſity, as well as a Graduate, if therunto lawfully called, I ſhall be ſorry for my raſhneſſs, and apply my ſelfe to ſome<g ref="char:EOLhyphen"/>thing elſe for the futute.</p>
+            <p>Q. <hi>I pray where is there a neceſſity of ſuch Preachers as have not been Graduates?</hi>
+            </p>
+            <pb n="2" facs="tcp:93395:3"/>
+            <p> 
+               <hi>A.</hi> Where there is a want of Godly and learned men to teach the People, and whether there be not a want of ſuch to ſupply many a hundred congregations in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> judge you I pray.</p>
+            <p>Q. <hi>And becauſe you ſay if he be thereunto lawfully called, I pray who is lawfully called to be a Miniſter?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He that is inwardly called of God, and outward<g ref="char:EOLhyphen"/>ly called by thoſe the Scripture Authorize to call him, is lawfully called to be a Miniſter.</p>
+            <p>Q. <hi>Inwardly called? why ought none to preach, except they bee inwardly called of God, is not the outward calling ſufficient?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, for how ſhall they preach except they be ſent, <hi>Rom.</hi> 10.15. I hope you will conclude the Apoſtle meant an inward call as well as an outward; no man, no though hee have beene a Graduate, may take this honour to himſelfe, but he who is called of God as was <hi>Aaron, Heb.</hi> 5.4. though a man be never ſuch an Eminent Scholar, he ought not to enter into the Miniſtry, unleſſe hee bee inwardly called of God: it is not every Scholar may turne Preacher: we reade in <hi>Dan.</hi> 1.17. of foure ex<g ref="char:EOLhyphen"/>cellent Scholars, but God powred the Spirit of Prophe<g ref="char:EOLhyphen"/>ſie upon but one of them, viz. <hi>Daniel: Paul</hi> was brought up at the feet of <hi>Gamaliel, Acts</hi> 22.3. a place I feare too much abuſed by ſome Scholars: for if wee com<g ref="char:EOLhyphen"/>pare that text with <hi>Acts</hi> 18.3. 'tis ſaid that <hi>Pauls</hi> craft was to make tents: but ſuppoſe it be a truth that <hi>Ga<g ref="char:EOLhyphen"/>maliel</hi> was a Tutor, and <hi>Paul</hi> a Student under him, and that then and there hee became skilfull in all kinde of Languages, Arts and Sciences, which to prove will make a Scholar to ſweat; yet <hi>Paul</hi> had no warrant to turne Apoſtle untill hee had commiſſion from Jeſus Chriſt: ſo though it be neceſſary that a Miniſter bee a Scholar, yet no mans Scholarſhip makes him a Mini<g ref="char:EOLhyphen"/>ſter
+<pb n="3" facs="tcp:93395:3"/>though you joyne to that the lord Popes call or the lord Biſhops either, for unleſſe he bee inwardly called of God hee is not able to prove himſelfe a true Miniſter; and truly it were good that thoſe Scholars that turne Miniſters would make knowne their Com<g ref="char:EOLhyphen"/>miſſion they have received from God, if they have re<g ref="char:EOLhyphen"/>ceived any, as well as that they have received from a Lordbiſhop or ſome Patrone, that when ever they re<g ref="char:EOLhyphen"/>prove others for preaching without a call, their owne conſciences might not reply, <hi>Medice cura teipſum.</hi>
+            </p>
+            <p>Q. <hi>Ah ſirrah, I begin to ſmell a rat, for any thing I can per<g ref="char:EOLhyphen"/>ceive you could beteem to conclude that</hi> Paul <hi>was no Scholar?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Sir, I pray judge charitably, I beleeve <hi>Paul</hi> was a better Scholar than your ſelfe, he ſpake more langua<g ref="char:EOLhyphen"/>ges than they all ſaith the Text in 1 <hi>Cor.</hi> 14.18. yet ſtill it lyes upon you to prove that <hi>Paul</hi> attained his skill in languages by induſtry at Gamaliels Colledge, or whe<g ref="char:EOLhyphen"/>ther he had the extraordinary gift of tongues as thoſe had in <hi>Acts</hi> the ſecond.</p>
+            <p>Q. <hi>You muſt know that the call of Miniſters is either or<g ref="char:EOLhyphen"/>dinary or extraordinary, Prophets and Apoſtles were extra<g ref="char:EOLhyphen"/>ordinarily called, and therefore though then God imployed heardmen and fiſhermen, yet now miracles are ceaſed, and we are not to looke at any man as ſent of God to preach the Goſ<g ref="char:EOLhyphen"/>pell unleſſe he have been a Graduate.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We are not to expect that God ſhould now ſend either heardmen or fiſhermen with any other Goſpel than wee have already received; or that God ſhould make them Prophets or Apoſtles; yet it doth not fol<g ref="char:EOLhyphen"/>low but that God may call one to the worke of the mi<g ref="char:EOLhyphen"/>niſtry who for ſome ſhort time hath wrought upon a trade or followed husbandry, and give him ſuch ordi<g ref="char:EOLhyphen"/>nary gifts as may be profitable for thoſe congregations which want godly and learned Divines, or elſe our En<g ref="char:EOLhyphen"/>gliſh
+<pb n="4" facs="tcp:93395:4"/>Presbyters ſinne againſt light, for they give their letters teſtimoniall in the behalfe of ſuch, and alſo or<g ref="char:EOLhyphen"/>daine them.</p>
+            <p>Q. <hi>I know no command in the word, or example, either that any tradeſman ſhould enter into the Miniſtry without an Im<g ref="char:EOLhyphen"/>mediate call from Jeſus Chriſt by name, and that ſuch a one as makes others take notice of it as well as himſelfe.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If thereon you conclude, that it is unlawfull for a man that for ſome time hath wrought on a trade, after<g ref="char:EOLhyphen"/>ward to apply himſelfe to the ſtudy of Divinity and en<g ref="char:EOLhyphen"/>ter into the Miniſtry if he be by godly and learned Di<g ref="char:EOLhyphen"/>vines found able to diſpence the word of life for the good of the Church: by the ſame rule what command or example have you in the word for Baptizing Infants, payment of Tythes, Ordination of Miniſters by a Lord Biſhop, or for any Graduate to enter into the Miniſtry unleſſe he have ſuch an immediate call, for the miracle will hold for the one as well as the other, and I deſire you to prove that either they <hi>Acts</hi> 8.4. or <hi>Appollos Acts</hi> 18. were Graduates, or had this immediate call you ſpeake of, yet I hope you will conclude they were men in office, and did not run before they were ſent.</p>
+            <p>Q. <hi>I will not trouble my ſelfe about</hi> Appollo <hi>at this time, but I anſwer your demand with another Quere, ought not a man to abide in the ſame vocation wherein he is called, for I am ſure its the counſell of the Apoſtle.</hi> 1 <hi>Cor.</hi> 7.20. Let e<g ref="char:EOLhyphen"/>very man abide in the ſame vocation whereunto hee is called.</p>
+            <p>
+               <hi>A.</hi> Man and Wife ought not by unlawfull meanes to part, nor Servants by unlawfull meanes to reject the yoak, which is the ſenſe if you obſerve the ſcope of the Apoſtle in the Chapter: but I deny that that text bindes a man upon paine of damnation to a particular trade, or that it tyes God onely to Graduates for the worke of the Miniſtry.</p>
+            <pb n="5" facs="tcp:93395:4"/>
+            <p> Q. <hi>But I pray how ſhall a man underſtand the Scripture without knowledge of the Originall tongues?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There are Miniſters that have not beene Gradu<g ref="char:EOLhyphen"/>ates that underſtand the tongues, and I deny not but ſome have beene ordained that have not beene very ex<g ref="char:EOLhyphen"/>pert in the Latine tongue, yet thankes be to God wee have the Scriptures tranſlated, and neither you or any learned man elſe is able to ſhew ſuch a conſiderable dif<g ref="char:EOLhyphen"/>ference betwixt the Originall and our Engliſh tranſlati<g ref="char:EOLhyphen"/>on as ſhall forbid ſuch either reading or the underſtand<g ref="char:EOLhyphen"/>ing of the Scriptures if they be induſtrious; and if the caſe ſtand ſo as the Church of God have neede of ſuch for the Miniſtry, the Churches good ought to be prefer<g ref="char:EOLhyphen"/>red before any mans private intereſt; yet I would adviſe ſuch to get as much knowledge of the tongues as poſſi<g ref="char:EOLhyphen"/>ble they can, and not to reſt on what they have already attained, that they may be able to convince gaineſayers, for 'tis neceſſary that a Miniſter bee able to defend the truth as well as preach it.</p>
+            <p>Q. <hi>I thinke thou art a Roundheaded Raſcall that never got yet above thy greeke Lexicon; the Churches good? what doth it make for the Churches good to ſuffer ſuch Preachers? are they not heretiques and very prophane in their lives.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I could wiſh that it could not be ſaid of thoſe Mini<g ref="char:EOLhyphen"/>ſters that have been Graduates in the Univerſities, that the moſt part of them are either unſound in judgement, or lead wicked lives, which will make their account the more dreadfull another day: &amp; for my part ſuch as thoſe are whether they have been graduates or not graduates, unleſſe they repent they had better be removed &amp; faith<g ref="char:EOLhyphen"/>full paſtors put in their roome, than continued in their places to make the ſacrifice of the Lord to be abhord, or to leade people out of the ancient paths of life.</p>
+            <p>Q. <hi>Well, I ſee you will incourage tradeſmen to enter into the Miniſtry?</hi>
+            </p>
+            <pb n="6" facs="tcp:93395:5"/>
+            <p> A. Sir, I would be loath to incourage any Scholar or tradeſman either, to enter into the Miniſtry unleſſe he be able to prove he is inwardly called of God to the Mini<g ref="char:EOLhyphen"/>ſtry as well as externally by man, leſt God make him an example as he did <hi>Vzziah, Korah, Dathan</hi> and <hi>A<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iram:</hi> or blaſt his miniſtry: or give him over to a ſpi<g ref="char:EOLhyphen"/>rit of errour, or leſt the ſame judgments befall him that may befall any that run before they be ſent.—but I pray ſir let us diſpute the matter in hand ſyllogiſtically, whether or no he that is inwardly called of God, &amp; out<g ref="char:EOLhyphen"/>wardly called by thoſe the Scripture Authorize to call him be not a lawful Miniſter of Jeſus Chriſt though he have not beene a Graduate in a Univerſity.—And ſe<g ref="char:EOLhyphen"/>condly, whether he that is not inwardly called of God, nor outwardly by thoſe the Scripture authorize to or<g ref="char:EOLhyphen"/>daine Miniſters, or though he be outwardly called and yet want the inward call, whether he may dare to preach though he have been a graduate, and for my part I ſhall be willing to yeeld to any thing that appeares truth.</p>
+            <p>Q. <hi>If thou hadſt not been a Roundheaded Raſcall thou ſhouldeſt have been my companion, but I queſtion whether thou canſt frame a Syllogiſme worth a flea, and therefore I will neither talke, journey, eate or drinke, or any thing elſe with thee any longer, but I leave thee to the fiend, &amp; ſo vale, the devill take thee.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Vulgo dicitur, doctrinae ſolertes ut plurimum politicarum vel agendarum rerum? non ſunt maxime experti.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
